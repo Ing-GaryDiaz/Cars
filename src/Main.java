@@ -63,7 +63,8 @@ public class Main {
             System.out.println(hondaCopy);
         }
         catch (IOException | ClassNotFoundException e){
-            System.out.println(e);}
+            System.out.println(e);
+        }
     }
 
 }
